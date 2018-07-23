@@ -1,4 +1,3 @@
-#https://www.kaggle.com/dithyrambe/neural-nets-as-sudoku-solvers/
 
 import numpy as np
 import pandas as pd
